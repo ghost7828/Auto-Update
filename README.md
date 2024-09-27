@@ -1,7 +1,7 @@
 # Auto-Update
 with this script is possible to update specific folder from remote host
 
-**Version python used 3.11.4**
+**Python ver. 3.11.4**
 
 **1**-Install with your prompt the requirements:
  pip install -r requirements.txt

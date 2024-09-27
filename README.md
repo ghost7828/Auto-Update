@@ -8,7 +8,7 @@ with this script is possible to update specific folder from remote host
 
 Important!! For use Cx freeze you need install Microsoft C++ Build Tools (Install the package Development app with C++)
 
-**2**-Write your host address in the Update.py (You can use xaamp or hostweb)
+**2**-Write your host address in the Update.py 
 
 **3**-Open PowerShell as administrator and write this in the folder where you have the setup.py :
 
